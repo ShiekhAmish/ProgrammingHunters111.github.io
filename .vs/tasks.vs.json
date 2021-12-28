@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-blog-single",
+      "appliesTo": "blog-single.html",
+      "type": "launch"
+    }
+  ]
+}
